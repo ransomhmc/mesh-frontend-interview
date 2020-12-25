@@ -35,7 +35,7 @@
   - Currently, backend server is hard coded as `wss://conference-ken.meshub.tv` in urlFactory.js, please make it dynamic so we can manually choose one from a server list.
 
   - Expected output:
-    - https://imgur.com/n8mvD8t should display a simple UI to select a server from server list. Server list can be retrieved via `/servers` API
+    - Add a simple UI to select a server from server list in this page `https://imgur.com/n8mvD8t` . Server list can be retrieved via `/servers` API
 
 
 
